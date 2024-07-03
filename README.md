@@ -99,7 +99,7 @@ The repository is organized by chapters, starting from Chapter 3, as the project
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/automate-the-boring-stuff-with-python-project-solutions.git
+    git clone https://github.com/fiddle-thomas/automate-the-boring-stuff-with-python-project-solutions.git
     ```
 
 2. **Navigate to the Chapter Folder**:
