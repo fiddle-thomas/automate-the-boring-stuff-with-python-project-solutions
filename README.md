@@ -102,7 +102,7 @@ The repository is organized by chapters, starting from Chapter 3, as the project
     git clone https://github.com/fiddle-thomas/automate-the-boring-stuff-with-python-project-solutions.git
     ```
 
-2. **Navigate to the Chapter Folder**:
+2. **Navigate to the solutions Folder**:
     ```bash
     cd automate-the-boring-stuff-with-python-project-solutions/solutions
     ```
