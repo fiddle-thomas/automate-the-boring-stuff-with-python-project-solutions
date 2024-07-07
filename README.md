@@ -12,108 +12,108 @@ The repository is organized by chapters, starting from Chapter 3, as the project
 
 #### Chapter 3: Functions
 
-- [The Collatz Sequence](solutions/chapter_03_the_collatz_sequence.py)
+- [The Collatz Sequence](solutions/chapter-03-the-collatz-sequence.py)
 
 #### Chapter 4: Lists
 
-- [Comma Code](solutions/chapter_04_comma_code.py)
-- [Coin Flip Streaks](solutions/chapter_04_coin_flip_streaks.py)
-- [Character Picture Grid](solutions/chapter_04_character_picture_grid.py)
+- [Comma Code](solutions/chapter-04-comma-code.py)
+- [Coin Flip Streaks](solutions/chapter-04-coin-flip-streaks.py)
+- [Character Picture Grid](solutions/chapter-04-character-picture-grid.py)
 
 #### Chapter 5: Dictionaries and Structuring Data
 
-- [Chess Dictionary Validator](solutions/chapter_05_chess_dictionary_validator.py)
-- [Fantasy Game Inventory](solutions/chapter_05_fantasy_game_inventory.py)
-- [List to Dictionary Function for Fantasy Game Inventory](solutions/chapter_05_list_to_dictionary_function_for_fantasy_game_inventory.py)
+- [Chess Dictionary Validator](solutions/chapter-05-chess-dictionary-validator.py)
+- [Fantasy Game Inventory](solutions/chapter-05-fantasy-game-inventory.py)
+- [List to Dictionary Function for Fantasy Game Inventory](solutions/chapter-05-list-to-dictionary-function-for-fantasy-game-inventory.py)
 
 #### Chapter 6: Manipulating Strings
 
-- [Table Printer](solutions/chapter_06_table_printer.py)
-- [Zombie Dice Bots](solutions/chapter_06_zombie_dice_bots.py)
+- [Table Printer](solutions/chapter-06-table-printer.py)
+- [Zombie Dice Bots](solutions/chapter-06-zombie-dice-bots.py)
 
 ### Part II: Automating Tasks
 
 #### Chapter 7: Pattern Matching with Regular Expressions
 
-- [Date Detection](solutions/chapter_07_date_detection.py)
-- [Strong Password Detection](solutions/chapter_07_strong_password_detection.py)
-- [Regex Version of the strip() Method](solutions/chapter_07_regex_version_of_the_strip_method.py)
+- [Date Detection](solutions/chapter-07-date-detection.py)
+- [Strong Password Detection](solutions/chapter-07-strong-password-detection.py)
+- [Regex Version of the strip() Method](solutions/chapter-07-regex-version-of-the-strip-method.py)
 
 #### Chapter 8: Input Validation
 
-- [Sandwich Maker](solutions/chapter_08_sandwich_maker.py)
-- [Write Your Own Multiplication Quiz](solutions/chapter_08_write_your_own_multiplication_quiz.py)
+- [Sandwich Maker](solutions/chapter-08-sandwich-maker.py)
+- [Write Your Own Multiplication Quiz](solutions/chapter-08-write-your-own-multiplication-quiz.py)
 
 #### Chapter 9: Reading and Writing Files
 
-- [Extending the Multi-Clipboard](solutions/chapter_09_extending_the_multi_clipboard.py)
-- [Mad Libs](solutions/chapter_09_mad_libs.py)
-- [Regex Search](solutions/chapter_09_regex_search.py)
+- [Extending the Multi-Clipboard](solutions/chapter-09-extending-the-multi-clipboard.py)
+- [Mad Libs](solutions/chapter-09-mad-libs.py)
+- [Regex Search](solutions/chapter-09-regex-search.py)
 
 #### Chapter 10: Organizing Files
 
-- [Selective Copy](solutions/chapter_10_selective_copy.py)
-- [Deleting Unneeded Files](solutions/chapter_10_deleting_unneeded_files.py)
-- [Filling in the Gaps](solutions/chapter_10_filling_in_the_gaps.py)
+- [Selective Copy](solutions/chapter-10-selective-copy.py)
+- [Deleting Unneeded Files](solutions/chapter-10-deleting-unneeded-files.py)
+- [Filling in the Gaps](solutions/chapter-10-filling-in-the-gaps.py)
 
 #### Chapter 11: Debugging
 
-- [Debugging Coin Toss](solutions/chapter_11_debugging_coin_toss.py)
+- [Debugging Coin Toss](solutions/chapter-11-debugging-coin-toss.py)
 
 #### Chapter 12: Web Scraping
 
-- [Command Line Emailer](solutions/chapter_12_command_line_emailer.py)
-- [Image Site Downloader](solutions/chapter_12_image_site_downloader.py)
-- [2048](solutions/chapter_12_2048.py)
-- [Link Verification](solutions/chapter_12_link_verification.py)
+- [Command Line Emailer](solutions/chapter-12-command-line-emailer.py)
+- [Image Site Downloader](solutions/chapter-12-image-site-downloader.py)
+- [2048](solutions/chapter-12-2048.py)
+- [Link Verification](solutions/chapter-12-link-verification.py)
 
 #### Chapter 13: Working with Excel Spreadsheets
 
-- [Multiplication Table Maker](solutions/chapter_13_multiplication_table_maker.py)
-- [Blank Row Inserter](solutions/chapter_13_blank_row_inserter.py)
-- [Spreadsheet Cell Inverter](solutions/chapter_13_spreadsheet_cell_inverter.py)
-- [Text Files to Spreadsheet](solutions/chapter_13_text_files_to_spreadsheet.py)
-- [Spreadsheet to Text Files](solutions/chapter_13_spreadsheet_to_text_files.py)
+- [Multiplication Table Maker](solutions/chapter-13-multiplication-table-maker.py)
+- [Blank Row Inserter](solutions/chapter-13-blank-row-inserter.py)
+- [Spreadsheet Cell Inverter](solutions/chapter-13-spreadsheet-cell-inverter.py)
+- [Text Files to Spreadsheet](solutions/chapter-13-text-files-to-spreadsheet.py)
+- [Spreadsheet to Text Files](solutions/chapter-13-spreadsheet-to-text-files.py)
 
 #### Chapter 14: Working with Google Sheets
 
-- [Downloading Google Forms Data](solutions/chapter_14_downloading_google_forms_data.py)
-- [Converting Spreadsheets to Other Formats](solutions/chapter_14_converting_spreadsheets_to_other_formats.py)
-- [Finding Mistakes in a Spreadsheet](solutions/chapter_14_finding_mistakes_in_a_spreadsheet.py)
+- [Downloading Google Forms Data](solutions/chapter-14-downloading-google-forms-data.py)
+- [Converting Spreadsheets to Other Formats](solutions/chapter-14-converting-spreadsheets-to-other-formats.py)
+- [Finding Mistakes in a Spreadsheet](solutions/chapter-14-finding-mistakes-in-a-spreadsheet.py)
 
 #### Chapter 15: Working with PDF and Word Documents
 
-- [PDF Paranoia](solutions/chapter_15_pdf_paranoia.py)
-- [Custom Invitations as Word Documents](solutions/chapter_15_custom_invitations_as_word_documents.py)
-- [Brute-Force PDF Password Breaker](solutions/chapter_15_brute_force_pdf_password_breaker.py)
+- [PDF Paranoia](solutions/chapter-15-pdf-paranoia.py)
+- [Custom Invitations as Word Documents](solutions/chapter-15-custom-invitations-as-word-documents.py)
+- [Brute-Force PDF Password Breaker](solutions/chapter-15-brute-force-pdf-password-breaker.py)
 
 #### Chapter 16: Working with CSV Files and JSON Data
 
-- [Excel-to-CSV Converter](solutions/chapter_16_excel_to_csv_converter.py)
+- [Excel-to-CSV Converter](solutions/chapter-16-excel-to-csv-converter.py)
 
 #### Chapter 17: Keeping Time, Scheduling Tasks, and Launching Programs
 
-- [Prettified Stopwatch](solutions/chapter_17_prettified_stopwatch.py)
-- [Scheduled Web Comic Downloader](solutions/chapter_17_scheduled_web_comic_downloader.py)
+- [Prettified Stopwatch](solutions/chapter-17-prettified-stopwatch.py)
+- [Scheduled Web Comic Downloader](solutions/chapter-17-scheduled-web-comic-downloader.py)
 
 #### Chapter 18: Sending Email and Text Messages
 
-- [Random Chore Assignment Emailer](solutions/chapter_18_random_chore_assignment_emailer.py)
-- [Umbrella Reminder](solutions/chapter_18_umbrella_reminder.py)
-- [Auto Unsubscriber](solutions/chapter_18_auto_unsubscriber.py)
-- [Controlling Your Computer Through Email](solutions/chapter_18_controlling_your_computer_through_email.py)
+- [Random Chore Assignment Emailer](solutions/chapter-18-random-chore-assignment-emailer.py)
+- [Umbrella Reminder](solutions/chapter-18-umbrella-reminder.py)
+- [Auto Unsubscriber](solutions/chapter-18-auto-unsubscriber.py)
+- [Controlling Your Computer Through Email](solutions/chapter-18-controlling-your-computer-through-email.py)
 
 #### Chapter 19: Manipulating Images
 
-- [Extending and Fixing the Chapter Project Programs](solutions/chapter_19_extending_and_fixing_the_chapter_project_programs.py)
-- [Identifying Photo Folders on the Hard Drive](solutions/chapter_19_identifying_photo_folders_on_the_hard_drive.py)
-- [Custom Seating Cards](solutions/chapter_19_custom_seating_cards.py)
+- [Extending and Fixing the Chapter Project Programs](solutions/chapter-19-extending-and-fixing-the-chapter-project-programs.py)
+- [Identifying Photo Folders on the Hard Drive](solutions/chapter-19-identifying-photo-folders-on-the-hard-drive.py)
+- [Custom Seating Cards](solutions/chapter-19-custom-seating-cards.py)
 
 #### Chapter 20: Controlling the Keyboard and Mouse with GUI Automation
 
-- [Looking Busy](solutions/chapter_20_looking_busy.py)
-- [Using the Clipboard to Read a Text Field](solutions/chapter_20_using_the_clipboard_to_read_a_text_field.py)
-- [Instant Messenger Bot](solutions/chapter_20_instant_messenger_bot.py)
+- [Looking Busy](solutions/chapter-20-looking-busy.py)
+- [Using the Clipboard to Read a Text Field](solutions/chapter-20-using-the-clipboard-to-read-a-text-field.py)
+- [Instant Messenger Bot](solutions/chapter-20-instant-messenger-bot.py)
 
 ## How to Use This Repository
 
@@ -129,7 +129,7 @@ The repository is organized by chapters, starting from Chapter 3, as the project
 
 3. **Run the Projects**:
     ```bash
-    python project_name.py
+    python project-name.py
     ```
 
 ## License
