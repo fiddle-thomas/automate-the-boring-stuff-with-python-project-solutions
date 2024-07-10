@@ -18,6 +18,10 @@ The repository is organized by chapters, starting from Chapter 3, as the project
 
 - [Comma Code](solutions/chapter-04-comma-code.py)
 - [Coin Flip Streaks](solutions/chapter-04-coin-flip-streaks.py)
+    - In the solution for the Coin Flip Streaks problem, the following interpretation was made:
+        - Streaks are counted as non-overlapping sequences of exactly 6 heads or 6 tails.
+        - The streak count is reset after each occurrence of a streak.
+    - This interpretation is based on the problem statement asking to check "if there is a streak" in each experiment, which was understood to mean distinct, non-overlapping streaks.
 - [Character Picture Grid](solutions/chapter-04-character-picture-grid.py)
 
 #### Chapter 5: Dictionaries and Structuring Data
